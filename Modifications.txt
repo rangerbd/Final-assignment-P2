@@ -1,0 +1,8 @@
+1. added Research Question
+2. added Metadata and sources
+3. Interactive plots are added
+4. data quantity and data quality is provided 
+
+5. I have added another new population dataset for making Morality Rate for further research
+6. I have made the Title short and simplified and used functions as much as i can
+7. Added documentations and added the code in the Github (No datasets)

@@ -1,0 +1,5 @@
+user : 'dipto'
+main_path : 'D:\study\programming 2\final\final\datasets'
+consumption : 'D:\study\programming 2\final\final\datasets\alcho_consuption_per_litre.csv'
+death : 'D:\study\programming 2\final\final\datasets\number_of_death.csv'
+population: 'D:\study\programming 2\final\final\datasets\Book_2.csv'
