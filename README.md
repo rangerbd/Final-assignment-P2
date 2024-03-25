@@ -1,1 +1,5 @@
-# Final-assignment-P2
+pandas
+matplotlib
+scikit-learn
+numpy
+Plotly
