@@ -1,7 +1,7 @@
-**Research Question**
+<h1>Research Question</h1>
 How does alcohol consumption impact mortality rates across the global?
 
-**Data Sources and Metadata**
+<h1>Data Sources and Metadata</h1>
 
 Data Source: https://ourworldindata.org/alcohol-consumption
 
